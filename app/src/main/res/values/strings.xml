@@ -22,7 +22,17 @@
     <string name="bar_4">Altitude</string>
     <string name="bar_5">Polite Provision</string>
     <!--Name of the locations in HotelsFragment-->
+    <string name="hotel_1">Manchester Grand Hyatt</string>
+    <string name="hotel_2">Bahia Resort</string>
+    <string name="hotel_3">Hilton Bayfront</string>
+    <string name="hotel_4">Paradise Point</string>
+    <string name="hotel_5">Hotel Republic</string>
     <!--Name of the locations in LandmarksFragment-->
+    <string name="landmark_1">Balboa Park</string>
+    <string name="landmark_2">Torre Pines</string>
+    <string name="landmark_3">San Diego Zoo</string>
+    <string name="landmark_4">Pacific Beach</string>
+    <string name="landmark_5">Mission Bay</string>
 
 
 </resources>
