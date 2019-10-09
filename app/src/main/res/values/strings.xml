@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Top5SanDiego</string>
+
+    <!-- Rank number String Variables -->
+    <string name="rank_1">1)</string>
+    <string name="rank_2">2)</string>
+    <string name="rank_3">3)</string>
+    <string name="rank_4">4)</string>
+    <string name="rank_5">5)</string>
+
+    <!--Name of the locations in EatsFragment-->
+    <string name="eats_1">Born and Raised</string>
+    <string name="eats_2">Tofu House</string>
+    <string name="eats_3">Tajima</string>
+    <string name="eats_4">City Taco</string>
+    <string name="eats_5">Eureka</string>
+
+    <!--Name of the locations in NightLifeFragment-->
+    <string name="bar_1">Onxy</string>
+    <string name="bar_2">The Local</string>
+    <string name="bar_3">El Pres</string>
+    <string name="bar_4">Altitude</string>
+    <string name="bar_5">Polite Provision</string>
+    <!--Name of the locations in HotelsFragment-->
+    <!--Name of the locations in LandmarksFragment-->
+
+
+</resources>
