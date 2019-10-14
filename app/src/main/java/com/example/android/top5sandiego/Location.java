@@ -8,6 +8,7 @@ public class Location {
     private String mName;
     private int mImageSource;
     private String mUrl;
+    private String mDescription;
 
     /**
      * Constructor if the location does not have a corresponding website (mUrl = null)
@@ -15,10 +16,11 @@ public class Location {
      * @param name Name of the location
      * @param imageSource Image Resource information
      */
-    public Location(String rank, String name, int imageSource){
+    public Location(String rank, String name, int imageSource, String description){
         mRank = rank;
         mName = name;
         mImageSource = imageSource;
+        mDescription = description;
         mUrl = null;
     }
 
@@ -28,10 +30,11 @@ public class Location {
      * @param name Name of the location
      * @param imageSource Image Resource information
      */
-    public Location(String rank, String name, int imageSource, String url){
+    public Location(String rank, String name, int imageSource, String description, String url){
         mRank = rank;
         mName = name;
         mImageSource = imageSource;
+        mDescription = description;
         mUrl = url;
     }
 
@@ -66,4 +69,13 @@ public class Location {
     public String getUrl() {
         return mUrl;
     }
+
+    /**
+     * Retrieves the mDescription variable
+     * @return int mUrl
+     */
+    public String getDescription() {
+        return mDescription;
+    }
+
 }

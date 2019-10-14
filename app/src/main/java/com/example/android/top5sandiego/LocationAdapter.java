@@ -49,17 +49,21 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         Location currentLocation = getItem(position);
 
         //Find the ImageView in the location_item.xml layout and set the image from the location
-        ImageView locationImageView = (ImageView) listItemView.findViewById(R.id.location_image_view);
+        ImageView locationImageView = listItemView.findViewById(R.id.location_image_view);
         locationImageView.setImageResource(currentLocation.getImageSource());
 
         //Find the TextView for the rank in the location_item.xml layout and set it based of
         //the location.
-        TextView rankTextView = (TextView) listItemView.findViewById(R.id.location_rank_text_view);
+        TextView rankTextView = listItemView.findViewById(R.id.location_rank_text_view);
         rankTextView.setText(currentLocation.getRank());
 
         //TextView for the name of the location set based of the Location object
-        TextView nameTextView = (TextView) listItemView.findViewById(R.id.location_name_text_view);
+        TextView nameTextView =  listItemView.findViewById(R.id.location_name_text_view);
         nameTextView.setText(currentLocation.getName());
+
+        //TextView for the description of the location
+        TextView descriptionTextView = listItemView.findViewById(R.id.description_text_view);
+        descriptionTextView.setText(currentLocation.getDescription());
 
         return listItemView;
     }

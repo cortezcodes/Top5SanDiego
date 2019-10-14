@@ -9,30 +9,136 @@
     <string name="rank_5">5)</string>
 
     <!--Name of the locations in EatsFragment-->
-    <string name="eats_1">Born and Raised</string>
-    <string name="eats_2">Tofu House</string>
-    <string name="eats_3">Tajima</string>
-    <string name="eats_4">City Taco</string>
-    <string name="eats_5">Eureka</string>
+    <string name="eats_born_and_raised">Born and Raised</string>
+    <string name="eats_born_and_raised_description">Spacious, modern destination for high-end steak
+                                                    and cocktails with glitzy decor and a rooftop patio.</string>
+    <string name="eats_tofu_house">Tofu House</string>
+    <string name="eats_tofu_house_description">Big portions of hot stone Korean BBQ, tofu stews and
+                                                sides amongst no-frills decor in a strip mall.</string>
+    <string name="eats_tajima">Tajima</string>
+    <string name="eats_tajima_description">Since we first opened in 2001, Tajima has been satisfying
+        San Diego\'s growing hunger for authentic Japanese cuisine and ramen that is both unique and
+        flavorful. Thanks to owner Sam Morikizono and his talented staff, Tajima has earned a
+        reputation as one of San Diego\'s top Japanese restaurants.</string>
+    <string name="eats_city_taco">City Taco</string>
+    <string name="eats_city_taco_description">City Tacos has turned up the heat on innovative,
+        delicious and unique bites. We prepare fresh Mex as it should be… “con sazón!” You’ll find a
+        special blend of positivity and seasoning here that makes our food pop! Born in San Diego’s
+        North Park neighborhood, City Tacos now proudly serves the communities of La Mesa and
+        Imperial Beach. Our three locations are dedicated to combining traditional recipes with SoCal
+        flavor to make our tacos unique. Meat, fish, vegetarian, even Paleo offerings offer something
+        for every taste. Our dishes can also be topped with a variety of creative salsas to customize
+        each bite. At the end of the day, we believe that food should be a celebration</string>
+    <string name="eats_eureka">Eureka</string>
+    <string name="eats_eureka_description">Our first San Diego restaurant is located at the
+        University Town Center. This all-American scratch kitchen doesn’t just stop with their
+        handmade gourmet burgers and menu using locally sourced produce. Eureka!’s small batch
+        whiskey, extensive rotating craft beer and beverage program is something all beer lovers
+        will enjoy. With a stacked weekly calendar they provide a one-of-a-kind experience for
+        guests with half off wine Tuesdays, Steal The Glass Wednesdays, Live Music Thursdays, a
+        daily “Hoppy Hour” and weekend brunch. If you’re looking for a place with all-American food,
+        the best craft beer selection and the best whiskey bar in San Diego, then Eureka!, you’ve
+        found</string>
 
     <!--Name of the locations in NightLifeFragment-->
-    <string name="bar_1">Onxy</string>
-    <string name="bar_2">The Local</string>
-    <string name="bar_3">El Pres</string>
-    <string name="bar_4">Altitude</string>
-    <string name="bar_5">Polite Provision</string>
+    <string name="bar_onxy">Onxy</string>
+    <string name="bar_onxy_description">Experience the best of San Diego nightclubs at Onyx Room.
+        Located in the heart of downtown San Diego, Onyx Room brings world class DJs, a fun,
+        vibrant dance club atmosphere, and the best bottle service San Diego has to offer.
+        Make a reservation today.</string>
+    <string name="bar_the_local">The Local</string>
+    <string name="bar_the_local_description">The Local Eatery and Drinking Hole opened its doors in
+        2003, as a family owned and operated restaurant and bar. Mina Desiderio saw an opportunity
+        to carve out a niche in the Financial District of Downtown San Diego. The philosophy was
+        simple: Bring the beach and all things that define San Diego to downtown. The vision was to
+        be an establishment that supported local sports teams, local cuisine, local beers,
+        local music and local events, hence the name, The Local.</string>
+    <string name="bar_el_prez">El Prez</string>
+    <string name="bar_el_pres_description">Our rooftop overlooks Pacific Beach. Our gourmet tacos
+        are made with fresh, local ingredients and served in house-made tortillas. Our bar features
+        a large selection of tequilas, with 18 beers on tap. We have 24 HD TVs and a giant projection
+        screen. There’s no place on the boardwalk like us. Our bar was built on the concept of Dia
+        de los Muertos. Combine all of these elements, and El Prez is where to drink, where to eat
+        and where to party in San Diego!</string>
+    <string name="bar_altitude">Altitude</string>
+    <string name="bar_altitude_description">erched 22 stories above the historic Gaslamp District,
+        ALTITUDE Sky Lounge is an elite rooftop bar in San Diego, pairing stunning panoramic views
+        with a sleek, modern atmosphere complete with a blazing fire pit and can’t-miss happy hour.
+        The bar offers bottle service; a fine selection of wine, beer and cocktails; an impressive
+        array of appetizers, flatbreads, burgers and more.</string>
+    <string name="bar_polite_provisions">Polite Provisions</string>
+    <string name="bar_polite_provisions_description">Apothecary-esque bar offers craft cocktails and
+        microbrews in a stylish, retro space with an atrium.</string>
+
     <!--Name of the locations in HotelsFragment-->
-    <string name="hotel_1">Manchester Grand Hyatt</string>
-    <string name="hotel_2">Bahia Resort</string>
-    <string name="hotel_3">Hilton Bayfront</string>
-    <string name="hotel_4">Paradise Point</string>
-    <string name="hotel_5">Hotel Republic</string>
+    <string name="hotel_manchester_grand_hyatt">Manchester Grand Hyatt</string>
+    <string name="hotel_manchester_grand_hyatt_description">Surrounded by shops and restaurants
+        along San Diego Bay, this high-end hotel is 9 minutes\' walk from the San Diego Convention
+        Center and 3 miles from San Diego International Airport.Featuring floor-to-ceiling windows
+        with bay or city views, upscale rooms offer free Wi-Fi and flat-screens; studios add pull-out
+        sofas. Club rooms provide access to a private lounge serving complimentary breakfast,
+        while suites come with kitchenettes and living rooms. Room service is available. Dining options
+        include a seafood restaurant, a buffet eatery with a terrace, and a rooftop lounge and bar.
+        There\'s also a spa and a gym, as well as 2 outdoor pools.</string>
+    <string name="hotel_bahia_resort">Bahia Resort</string>
+    <string name="hotel_bahia_resort_description">Set on Mission Bay, this relaxed resort is a
+        12-minute walk from Belmont Park and 2.2 miles from SeaWorld San Diego. The simple,
+        traditional rooms offer flat-screen TVs and free Wi-Fi, along with coffeemakers and
+        minifridges. Some have beach or garden views. Suites add kitchenettes and dining tables,
+        as well as sitting areas and bay views. Room service is available. A turn-of-the-century
+        riverboat offers free cruises between the resort and a sister property. Dining options
+        include a Mediterranean cafe and a Moroccan-themed lounge bar. There\'s an outdoor pool,
+        a hot tub and a kids\' game room, along with tennis courts and live entertainment.</string>
+    <string name="hotel_hilton_bayfront">Hilton Bayfront</string>
+    <string name="hotel_hilton_bayfront_description">Across the street from the San Diego Convention
+        Center, this polished 30-story convention hotel overlooking San Diego Bay is a 7-minute walk
+        from Petco Park, home of the Padres baseball team, and 10 minutes\' walk from the historic
+        Gaslamp Quarter. Airy rooms offer bay and city views, plus flat-screen TVs and Wi-Fi (fee).
+        Suites add living areas with pull-out sofas. There\'s an upscale restaurant offering
+        innovative global dishes, as well as a sports bar, a coffee shop, and a waterfront bar with
+        a terrace. Other amenities include a spa, a fitness center, and an outdoor saltwater pool
+        with views of the bay, plus 165,000 sq ft of meeting space.</string>
+    <string name="hotel_paradise_point">Paradise Point</string>
+    <string name="hotel_paradise_point_description">On a private 44-acre island with a mile of beach,
+        this stylish resort is 2 miles from SeaWorld San Diego. Upscale rooms feature flat-screens,
+        Wi-Fi and minifridges, plus coffeemakers and patios; some provide bay views. Suites offer
+        sitting areas and microwaves, and some add fireplaces and whirlpool tubs. Bungalows offer
+        separate sitting rooms and dining tables, and an upgraded suite includes a kitchen. There
+        are 5 pools and 4 restaurants, including a breezy waterfront grill, plus a spa, a marina and
+        an 18-hole golf course. Additional amenities include a fitness center, lawn games, and
+        tennis and basketball courts. Parking is available (fee).</string>
+    <string name="hotel_hotel_republic">Hotel Republic</string>
+    <string name="hotel_hotel_republic_description">A 5-minute walk from buses, trains and trolleys
+        at the Santa Fe Depot, this polished hotel is a mile from shopping and dining at the Gaslamp
+        Quarter, and 3 miles from the gardens of Balboa Park. The bright, modern rooms come with
+        Wi-Fi, flat-screen TVs and coffeemakers. Upgraded rooms add sitting areas. Room service is
+        offered. There\'s a sleek restaurant and a rooftop bar serving small plates. Other amenities
+        include a fitness center and bike rentals.</string>
+
     <!--Name of the locations in LandmarksFragment-->
-    <string name="landmark_1">Balboa Park</string>
-    <string name="landmark_2">Torre Pines</string>
-    <string name="landmark_3">San Diego Zoo</string>
-    <string name="landmark_4">Pacific Beach</string>
-    <string name="landmark_5">Mission Bay</string>
+    <string name="landmark_balboa_park">Balboa Park</string>
+    <string name="landmark_balboa_park_description">Balboa Park is a 1,200-acre urban cultural park
+        in San Diego, California, United States. In addition to open space areas, natural vegetation
+        zones, green belts, gardens, and walking paths, it contains museums, several theaters, and
+        the world-famous San Diego Zoo.</string>
+    <string name="landmark_torrey_pines">Torrey Pines</string>
+    <string name="landmark_torrey_pines_description">Torrey Pines is a community of 2,600 acres in
+        the northern coastal area of San Diego, California, residential with large areas of office
+        space along I-5.</string>
+    <string name="landmark_san_diego_zoo">San Diego Zoo</string>
+    <string name="landmark_san_diego_zoo_description">The San Diego Zoo is a zoo in Balboa Park, San
+        Diego, California, housing more than 3,500 animals of more than 650 species and subspecies.</string>
+    <string name="landmark_pacific_beach">Pacific Beach</string>
+    <string name="landmark_pacific_beach_description">Pacific Beach is a relaxed neighborhood by the
+        beach, popular with sunbathers and surfers. Trendy hotel bars and casual cafes line the
+        boardwalk, while Mission Boulevard and the surrounding streets are dotted with women’s
+        clothing boutiques, yoga studios and casual drinking spots that draw a young, bar-hopping
+        crowd. Inland, the grassy slope of Kate Sessions Park has sweeping views of the city and San
+        Diego Bay.</string>
+    <string name="landmark_mission_bay">Mission Bay</string>
+    <string name="landmark_mission_bay_description">Mission Bay is a human-made saltwater bay
+        located south of the Pacific Beach community of San Diego, California created from
+        approximately 2,000 acres of historical wetland, marsh, and saltwater bay habitat</string>
 
 
 </resources>

@@ -9,7 +9,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -22,8 +21,13 @@ public class EatsFragment extends Fragment {
                     R.string.rank_4, R.string.rank_5};
 
     //Location of all the location strings
-    int[] locationRes = {R.string.eats_1, R.string.eats_2, R.string.eats_3,
-            R.string.eats_4, R.string.eats_5};
+    int[] locationRes = {R.string.eats_born_and_raised, R.string.eats_tofu_house, R.string.eats_tajima,
+            R.string.eats_city_taco, R.string.eats_eureka};
+
+    //Location description strings
+    int[] locationDescription = {R.string.eats_born_and_raised_description,
+            R.string.eats_tofu_house_description, R.string.eats_tajima_description,
+            R.string.eats_city_taco_description, R.string.eats_eureka_description};
 
 
     public EatsFragment() {
@@ -47,11 +51,11 @@ public class EatsFragment extends Fragment {
         ArrayList<Location> locations = new ArrayList<>();
 
         //add locations to the locations ArrayList
-        locations.add(new Location(getString(ranksRes[0]),getString(locationRes[0]),R.drawable.default_image));
-        locations.add(new Location(getString(ranksRes[1]),getString(locationRes[1]),R.drawable.default_image));
-        locations.add(new Location(getString(ranksRes[2]),getString(locationRes[2]),R.drawable.default_image));
-        locations.add(new Location(getString(ranksRes[3]),getString(locationRes[3]),R.drawable.default_image));
-        locations.add(new Location(getString(ranksRes[4]),getString(locationRes[4]),R.drawable.default_image));
+        locations.add(new Location(getString(ranksRes[0]),getString(locationRes[0]),R.drawable.eats_born_and_raised, getString(locationDescription[0])));
+        locations.add(new Location(getString(ranksRes[1]),getString(locationRes[1]),R.drawable.eats_tofu_house,getString(locationDescription[1])));
+        locations.add(new Location(getString(ranksRes[2]),getString(locationRes[2]),R.drawable.eats_tajima, getString(locationDescription[2])));
+        locations.add(new Location(getString(ranksRes[3]),getString(locationRes[3]),R.drawable.eats_city_taco, getString(locationDescription[3])));
+        locations.add(new Location(getString(ranksRes[4]),getString(locationRes[4]),R.drawable.eats_eureka, getString(locationDescription[4])));
 
         //Create an LocationAdapter to set on the ListView
         LocationAdapter locationAdapter = new LocationAdapter(getContext(), locations);
